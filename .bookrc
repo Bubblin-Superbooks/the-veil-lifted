@@ -1,0 +1,22 @@
+{
+  "name": "The Veil Lifted",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "Modern Developments of Spirit Photography",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/the-veil-lifted/master/assets",
+  "book_id": 1238,
+  "book_url": "https://bubblin.io/book/the-veil-lifted-by-various"
+}
